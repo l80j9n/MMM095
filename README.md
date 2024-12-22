@@ -1,1 +1,55 @@
-# MMM095
+java c
+MMM095 – Multinational Enterprise Strategy and Performance (Postgraduate level) 
+Individual Assignment 
+International Business and Strategy 
+2023-2024 
+
+
+Resit individual assignment.
+Note: Mark for resit will be capped at 50.
+The deadline for electronic submission on Turnitin is before 14:00 pm, August 15, 2024.
+Write a piece of an individual coursework of maximum 1,500 words in total (+10% variation is already included in the maximum word limit). The word limit includes the introduction, the main body, conclusion, tables and figures, citation, appendices, notes, and end notes in the text, but excludes the front cover sheet, and references. Your materials in the appendices will be counted towards the word limit. So, please do not exceed the maximum word limit. Any paper exceeding the word limit will be penalized and marked down.You   are   expected to use the   appropriate materials   from module MMM095   and your   research. You   should   consult   various   sources   of   information   and   data   (lecture   materials,   core   textbook,   reading   lists,   books,   websites,   full   accounts/   annual   reports,   documents,   and   filings   with   Companies   House,   academic journal   articles,   business   and   financial   press,   such   as   BBC   Business,   the   Financial   Times,   the   Economist,   the   Forbes, Reuters, Associated Press (AP), Bloomberg, the Guardian, the   New York Times, the Washing Post,   Der   Spiegel, Nikkei Asian Review, Yahoo Finance, etc.You are assigned the UK subsidiary of a multinational enterprise (MNE). Analyze the international business strategy and financial management of this foreign subsidiary. Support your answers with specific, relevant, well-explained, well-analyzed and real    hard facts, data, and examples of this subsidiary.
+You should refer to the detailed guidance in Appendix 1, which explains clearly what is expected in your answer to each question. Visit the UK Companies House website, search for the assigned subsidiary. You will find    the subsidiary’s “full accounts” (annual reports) under the “filing history” tab by following the below link (All you need to do is to cut and paste the link into Google to search for the UK Companies House website. When you are at the UK Companies House website, you will be able to find the assigned subsidiary. Make sure that you use exactly the assigned subsidiary name) 
+
+
+This is your assignment:
+1.       Make plausible   arguments   whether   your   subsidiary   builds   its   strategy   based   upon   Porter’s   single   diamond   (Porter,   1990),   or   whether   it   uses   Rugman      D’Cruz’s/   Rugman      Verbeke’s   double   diamond   (Rugman      D’Cruz,    1993;   Rugman      Verbeke,    1993)/   generalized   double   diamond   approach   (Moon,   Rugman      Verbeke,   1998).   Critically   analyze   all   attributes   of the   theoretical   model   which   you   have   just   identified   to   analyze   the   location   advantages   of   the   host   country   (also known   as host   country-specific   advantages   - host   CSAs) which your   subsidiary has   accessed   and exploited.   Examine four dimensions of   distance (Ghemawat, 2001) between the home country and   the   host country, and analyze   whether or   not distance is   really a challenge?   How   has   your subsidiary   overcome the distance?
+2.       Use   Rugman,   Verbeke   and   Yuan   (2011)   diagram   of   re-conceptualization   of   national   subsidiary roles   along   the   value   chains   to   discuss   clearly   what   role(s)   your   subsidiary   has?   Explain   and   illustrate your answer with a diagram.
+3.         Show detailed calculations, analyze, compare and comment the financial   performance   trend of   your   subsidiary   for   each   year   of   the   three-year   period   of   2020-2022   for   each   set   of   the   financial   ratios (sales   and   profit   growth/   decline); profitability   ratios   of   gross   profit   margin   ratio,   EBIT   ratio,   net profit   ratio,   ROA;   gearing   ratios   of   debt-to-total    assets,   debt-to-equity,   times   interest    earned;   liquidity   ratios of   current   ratio, quick   ratio,   working capital; operating efficiency ratios of   inventory   turnover in days, account receivable turnover in days and account payable turnover in days. In case   your   subsidiary exports, analyze   sales in domestic   markets   and   international   markets.   You   should   present   the   financial   statements   of   your   subsidiary   in   the   appendix   in   the   format   of   image.
+4.       Analyse   in   detail   all   the   major   financing   sources   of your    subsidiary   for   the   period   2020-2022?   Discuss   whether   or not   your   subsidiary has   any role   in   foreign   exchange   risk management.   How are   foreign   exchange   risks   managed   in   your   subsidiary?   Critically   analyze   whether   or   not   your   parent   firm has used various mechanisms to   shift   profits   in   your   subsidiary.   Support   your   answer with specific well-explained data, facts, and   examples.
+Evaluation Marks   will   be   given   for   the   application   of   critical   thinking,   analytical   and   integration   skills   using   the   frameworks   developed   in   this   module. You should make plausible answers backed up by whatever relevant hard facts, data, and examples you can access on the activities, strategy, and financial management of your subsidiary. The marks for the 代 写MMM095 – Multinational Enterprise Strategy and Performance 2023-2024C/C++
+代做程序编程语言  assignment will be   awarded   equally   for   all   questions   (Each question has the same marks/ the same   credits).
+Format (see also Appendix 2 for submission format and reference style guidelines) You should use headings and sub-headings. Notes or Endnotes should be used only   if   absolutely necessary   and must be identified in the text by consecutive numbers, enclosed in square brackets and listed at the end   of   the   essay.
+Front page: essay title   (including the   subsidiary name), your   group,   your   team   number,   your   name,   your   student ID number, and total word count (word count excludes the   front page,   and references).
+Introduction: briefly introduce the company   background information. You   may explain the main objective   of   this   essay, the   main   arguments/findings, and   the   limitations   of   this   study,   etc.
+Main body: you need to cover   all the   issues   in   the format of answers-to-questions.   There   is no need to rewrite the questions in your submitted work.   This will   give you more   space   to   present   your   answers.   You need to   state   explicitly the   concepts   and theoretical   framework that you   use   to   answer   the   questions.You are expected to demonstrate that you are capable of applying these concepts and frameworks to critically analyze the subsidiary you are studying.   A   good   piece   for   this   module   should   focus   on   a   persuasive   analysis   and   argument,   based   on   the   data,   facts,   and   examples   you   find.   In   addition,   you   are   expected   to   present consistent and interactive arguments of   the issues, e.g., hard data and   thorough   explanation   could support   your analysis on   the    strategy and   performance (see detailed guidance in Appendix 1).
+Specific expectations 
+• Research skills: find   relevant, interesting, specific,   real examples, data, information, and   hard facts   to support your   answers.
+• Insights: identification   of   key   issues; a   clear   and   consistent   focus.
+• Analysis: a   presentation of   information that exhibits an   understanding, a capable application of   key   concepts. The rationale and reasoning are explained logically and clearly.
+• Synthesis: relevant   incorporation   of   various   concepts   and   pieces   of   information.
+• Appearance: clear and concise organization   and   overall   style;   good grammar   and   spelling.
+• Coherency: the   paper   must   appear   coherent.
+• Consistency: all   evidence   should   be   supported   by   your   discussion.
+• Originality: an   ability   to   be   creative   and   innovative   in   research   and   presentation   of   information.
+Conclusion: a   brief   summary   of   the   essential   arguments/findings   for   the   work.
+Tables and figures: It is your   decision to   put   the   figures/tables   separately   or   in   the   text.   Each   figure/table   needs to be fully referenced and explained. Please do not insert   any   of   them   without   explanation.References and plagiarism: All   sources   (e.g., books,   articles,   internet   sites,   etc.) used   in the   assignment   must be listed in the text   and in   the   reference   lists.   Reference   must   be   Harvard   style,   and   you   can   find   the   Harvard   style   reference   guidance   at   the   end   of the   assignment   (appendix 2).   Marks   will   be   deducted   if   students fail to correctly reference.Plagiarism   is   defined   as   falsely claiming the   ideas, passages,   data,   etc., of another work   or   author   as your   own.   This   is   a   serious   offence   and   may   result   in   you   failing   your   degree   and   the   circumstances   of the   plagiarism   being   placed   on   your   records   for   further   reference.   It   is   therefore   essential   to   be   meticulous,   to keep   a   full   and   careful record   of all references   as you proceed with your   research   and   then   citing   them   in   your   coursework.
+Please note that the electronic copy   of   your coursework will be checked by the University’s anti-plagiarism   programmes and other checks may also be undertaken.Appendices: you are expected to include the financial statements   (balance   sheet   and   income   statement)   of   your subsidiary for the three-year period in the format of   the picture. These documents must be extracted from the subsidiary’s full accounts from the UK Companies House, not from any database.
+Assessment criteria The   assessment   criteria   are   in   accordance   with the policy   of the University   of Reading,   Henley   Business   School,   Assessment   criteria   (see Appendix 3 for Henley Business School, marking and feedback e-proforma form where detailed assessment criteria are fully listed).
+Marking criteria 
+Each    question    has the    same    marks.   Marks   will   be    awarded    for   the    quality    of   research,    analytical   reasoning, critical   thinking   and   integration   of   theory   and   evidence   (examples,   data   and   facts).
+Marking criteria will be in accordance with the University policy – Assessment Handbook – Section 
+10 – Annex 1 – University marking criteria for level 4-6. 
+http://www.reading.ac.uk/web/files/qualitysupport/10_Marking_withannexes.pdf 
+Marking scheme 
+The pass mark is C   or   50%+      The merit mark is B   or   60%+
+The distinction mark is A or   70%+
+
+
+
+
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
